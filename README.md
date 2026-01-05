@@ -1,1 +1,1 @@
-Unciv mod. Allows cities to do right beside each other, and to have an unlimited sprawl
+Unciv mod. Allows cities to be right beside each other, and to have an unlimited sprawl
