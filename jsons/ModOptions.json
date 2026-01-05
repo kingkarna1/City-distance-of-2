@@ -1,1 +1,4 @@
-{ "constants": { "minimalCityDistance": 2, "minimalCityDistanceOnDifferentContinents": 1,  } }
+{ "constants": { "minimalCityDistance": 0, "minimalCityDistanceOnDifferentContinents": 0, 
+
+
+:{"cityWorkRange":1000,"cityExpandRange":10000 },"modUrl":"https://github.com/Jopas65/KSRB","author":"Jopas65","lastUpdated":"2024-11-20T23:09:54Z","modSize":137}  } }
