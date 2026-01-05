@@ -1,1 +1,1 @@
-City distance of 2
+Unciv mod. Allows cities to do right beside each other, and to have an unlimited sprawl
