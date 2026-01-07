@@ -1,1 +1,1 @@
-{ "constants": { "minimalCityDistance" : 0, "minimalCityDistanceOnDifferentContinents" : 0, "cityWorkRange" : 10000, "cityExpandRange" : 10000 } }
+{ "constants": { "minimalCityDistance" : 0, "minimalCityDistanceOnDifferentContinents" : 0, "cityWorkRange" : 100, "cityExpandRange" : 100 } }
