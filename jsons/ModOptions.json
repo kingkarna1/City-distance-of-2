@@ -1,1 +1,1 @@
-{ "constants":{ "cityAirUnitCapacity": 10000, "cityWorkRange": 10000, "cityExpandRange": 10000, "minimalCityDistance": 0, "minimalCityDistanceOnDifferentContinents": 0 } }
+{ "constants":{ "maxXPfromBarbarians":10000,  "cityAirUnitCapacity": 10000, "cityWorkRange": 10000, "cityExpandRange": 10000, "minimalCityDistance": 0, "minimalCityDistanceOnDifferentContinents": 0 } }
