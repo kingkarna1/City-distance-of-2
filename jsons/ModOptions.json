@@ -8,6 +8,5 @@
 "cityAirUnitCapacity": 1000, 
 "cityWorkRange": 100, 
 "cityExpandRange": 100, 
-"minimalCityDistance": 1, "minimalCityDistanceOnDifferentContinents": 1, 
-
+"minimalCityDistance": 1, "minimalCityDistanceOnDifferentContinents": 1 
 } }
