@@ -3,8 +3,8 @@
 "Allow raze capital", 
 "Can trade civilization introductions for [100] Gold", 
 "Allow City States to spawn with additional units", 
-"Can convert gold to science with sliders", "maxXPfromBarbarians": 100000, 
-"cityAirUnitCapacity": 100000, 
+"Can convert gold to science with sliders", "maxXPfromBarbarians": 1000, 
+"cityAirUnitCapacity": 1000, 
 "cityWorkRange": 100, 
 "cityExpandRange": 100, 
 "minimalCityDistance": 1, "minimalCityDistanceOnDifferentContinents": 1 
